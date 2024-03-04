@@ -15,10 +15,14 @@ header{
     flex-direction: column;
 }
 
-<div>
+div{
     display: flex;
+}
+    
 
-    <div>
+  
+
+p{
+    padding: 0px 20px;
 p
-padding: 0px 20px;
-/p
+}
