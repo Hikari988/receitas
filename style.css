@@ -31,6 +31,10 @@ p
     width: 20%
     ;
 }
+.introducao{
+    display: flex;
+}
+
 
 
 
