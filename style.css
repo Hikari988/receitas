@@ -4,7 +4,6 @@
 body{
     background-color: var(--cor-de-fundo);
 }
-
 img{
     width: 10%;
 }
@@ -14,19 +13,12 @@ header{
     justify-content: space-around;
     flex-direction: column;
 }
-
 div{
     display: flex;
 }
-    
-
-  
-
 p{
     padding: 0px 20px;
-
 }
-
 .pudim{
     width: 20%;
 }
