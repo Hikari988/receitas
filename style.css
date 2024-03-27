@@ -3,6 +3,11 @@
 }
 body{
     background-color: var(--cor-de-fundo);
+    .arvo-regular-italic {
+        font-family: "Arvo", serif;
+        font-weight: 400;
+        font-style: italic;
+      }
 }
 img{
     width: 10%;
