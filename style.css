@@ -4,7 +4,7 @@
 body{
     background-color: var(--cor-de-fundo);
     
-        font-family: "Arvo", serif;
+        font-family: "", serif;
         font-weight: 400;
         font-style: italic;
       }
