@@ -40,4 +40,7 @@ p{
     border: 5px solid darkred;
 }
 
+.equipe{
+    display: grid;
+}
 
