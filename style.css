@@ -43,7 +43,10 @@ p{
 .equipe{
 
     
-        display: grid;
+        
+        display: flex;
+    justify-content: center;
+    padding: 19px;
         grid-template-columns: 33% 33% 33%;
         text-align: center;
         .foto-equipe{
