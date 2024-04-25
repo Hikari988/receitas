@@ -24,15 +24,12 @@ div{
 p{
     padding: 0px 20px;
 }
-.pudim{
-    width: 20%;
-}
-.brownie{
-    width: 20%;
-}
-.pina colada{
-    width: 40%;
-}
+.pudim{width: 20%;}
+
+.brownie{ width: 20%;}
+
+.pina colada{width: 40%;}
+
 .introducao{
     display: flex;
 }
