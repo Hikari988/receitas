@@ -24,12 +24,7 @@ div{
 p{
     padding: 0px 20px;
 }
-.pudim{width: 20%;}
-
-.brownie{ width: 20%;}
-
-.pinacolada{width: 20%;}
-
+.comida{width: 20%;}
 
 .introducao{
     display: flex;
